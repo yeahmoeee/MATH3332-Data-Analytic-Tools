@@ -1,0 +1,2 @@
+# MATH3332-Data-Analytic-Tools
+This course will introduce to the students some mathematical analysis tools that are useful for data analysis. The topics include basic calculus on functionals (norm, inner product, linear operators, differentiation, functional expansion, etc), and basic convex analysis (convexity, gradient descent). All are demonstrated by case studies in data analysis and machine learning.
