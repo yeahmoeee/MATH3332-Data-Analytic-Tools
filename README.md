@@ -9,8 +9,9 @@ There is no guarantee that I will be typesetting til the end of the semester. (f
 
 Contents 
 1.  Chapter 1: Introduction (Page 1) 
-2.  Chapter 2: Normed and Inner Product Space (Page 2 - 17) 
-3.  Chapter 3: Linear Function and Differentiable Function (Page 18 -24). **[Updated 5th October]**
+2.  Chapter 2: Normed and Inner Product Space (Page 2 - 26) 
+3.  Chapter 3: Linear Function and Differentiable Function (Page 27 - 77) [Case Study: Deep Learning not included yet (to be updated)]
+4.  Chapter 4: Optimality and Convexity (Page 78 - 90)
 
 
 
